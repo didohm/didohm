@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build modern, responsive, and elegant web experiences with a strong focus on UI, performance, and clean implementation.<br><br>Frontend development with React, Next.js, and TypeScript<br>UI design with Tailwind CSS and modern design systems<br>Turning ideas into polished, production-ready products<br>Always learning, improving, and building
+I build modern, responsive, and elegant web experiences with a strong focus on UI, performance, and clean implementation.<br><br>Web development with React, Next.js, and TypeScript<br>UI design with Tailwind CSS and modern design systems<br>Turning ideas into polished, production-ready products<br>Always learning, improving, and building
 
 
 ## 🌐 Socials:
