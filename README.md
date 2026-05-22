@@ -1,6 +1,6 @@
 <div align="center">
 
-# Boumédien Himich
+# Boumedien Himich
 ### Web Developer · UI/UX Craftsman · Product Builder
 
 *Building interfaces that feel as good as they look.*
