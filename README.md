@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a frontend engineer focused on building modern, performant, and visually refined web experiences. I care deeply about the intersection of clean code and thoughtful design — turning complex ideas into products that are intuitive, fast, and polished.
+I'm Full Stack Developer focused on building modern, performant, and visually refined web experiences. I care deeply about the intersection of clean code and thoughtful design — turning complex ideas into products that are intuitive, fast, and polished.
 
 - 🔨 &nbsp;Currently working on production-ready web and mobile apps
 - 🎯 &nbsp;Focused on React, Next.js, TypeScript, and design systems
