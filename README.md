@@ -1,20 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
-<a href="https://github.com/didohm">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&height=180&section=header&text=Boumedien%20Himich&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer%20·%20UI%2FUX%20Enthusiast%20·%20Product%20Builder&descAlignY=58&descSize=16&descColor=aaaaaa&animation=fadeIn" width="100%"/>
-</a>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&height=200&section=header&text=Boumedien%20Himich&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Developer%20·%20UI%2FUX%20Enthusiast%20·%20Product%20Builder&descAlignY=58&descSize=16&descColor=aaaaaa&animation=fadeIn)](https://github.com/didohm)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Building+interfaces+that+feel+effortless.;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Design+meets+performance+meets+precision.;Open+to+great+opportunities+🚀)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&multiline=false&width=600&lines=Building+interfaces+that+feel+effortless.;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Design+meets+performance+meets+precision.;Open+to+great+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Social badges -->
 <a href="https://linkedin.com/in/boumedienhimich">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -118,27 +109,19 @@ const boumedien = {
 
 <div align="center">
 
-<a href="https://github.com/didohm">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=didohm&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=333333&bg_color=ffffff" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=didohm&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=333333&bg_color=ffffff" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didohm&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=333333&bg_color=ffffff)](https://github.com/didohm)
 
-<br/><br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=didohm&hide_border=true&layout=compact&title_color=58a6ff&text_color=333333&bg_color=ffffff)](https://github.com/didohm)
 
-<img src="https://streak-stats.demolab.com/?user=didohm&theme=transparent&hide_border=true&background=ffffff&stroke=e0e0e0&ring=58a6ff&fire=58a6ff&currStreakNum=333333&sideNums=333333&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=didohm&hide_border=true&background=ffffff&stroke=e0e0e0&ring=58a6ff&fire=58a6ff&currStreakNum=333333&sideNums=333333&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)](https://github.com/didohm)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
+## 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=didohm&bg_color=ffffff&color=333333&line=58a6ff&point=58a6ff&area=true&area_color=d0e8ff&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/didohm)
-
-</div>
 
 ---
 
@@ -146,7 +129,7 @@ const boumedien = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=didohm&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8&title_color=58a6ff)](https://github.com/didohm)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=didohm&theme=flat&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)](https://github.com/didohm)
 
 </div>
 
@@ -186,10 +169,8 @@ const boumedien = {
 
 <div align="center">
 
-<a href="https://github.com/didohm">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=fadeIn" width="100%"/>
-</a>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=fadeIn)](https://github.com/didohm)
 
-<sub><i>Good software feels effortless. Great design feels invisible.</i></sub>
+*Good software feels effortless. Great design feels invisible.*
 
 </div>
