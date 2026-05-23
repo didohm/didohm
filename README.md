@@ -111,7 +111,7 @@ const boumedien = {
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=didohm&hide_border=true&background=ffffff&stroke=e0e0e0&ring=58a6ff&fire=58a6ff&currStreakNum=333333&sideNums=333333&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)](https://github.com/didohm)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=didohm&hide_border=true&layout=compact&title_color=58a6ff&text_color=333333&bg_color=ffffff&langs_count=8)](https://github.com/didohm)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=didohm&hide_border=true&layout=compact&title_color=58a6ff&text_color=333333&bg_color=ffffff&langs_count=8)](https://github.com/didohm)
 
 </div>
 
