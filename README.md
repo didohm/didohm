@@ -9,7 +9,7 @@
 <br/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Boumedien+Himich;AI+Full+Stack+Developer; Focus.+Discipline.+Execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Boumedien+Himich;AI+Full+Stack+Developer;Focus.+Discipline.+Execution." alt="Typing SVG" />
 </h1>
 
 <p>
