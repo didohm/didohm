@@ -59,37 +59,38 @@
 
 ```python
 class BoumedienHimich:
-    name        = "Boumedien Himich"
-    alias       = "didohm"
-    role        = "AI-Powered Full Stack Developer"
-    location    = "Algeria 🇩🇿"
-    motto       = "Focus. Discipline. Execution."
+name        = "Boumedien Himich"
+alias       = "didohm"
+role        = "AI-Powered Full Stack Developer"
+location    = "Algeria 🇩🇿"
+motto       = "Focus. Discipline. Execution."
 
-    currently = [
-"Building modern web applications with Next.js & React",
-"Developing scalable backends with Supabase & Firebase",
-"Creating AI-powered workflows and automations with n8n",
-"Building and customizing AI agents with OpenCode",
+currently   = [
+    "Building modern web applications with Next.js & React",
+    "Developing scalable backends with Supabase & Firebase",
+    "Creating AI-powered workflows and automations with n8n",
+    "Building and customizing AI agents with OpenCode",
 ]
 
-learning = [
-"Advanced Next.js architecture",
-"Automation systems with n8n",
-"AI agent development",
+learning    = [
+    "Advanced Next.js Architecture",
+    "n8n Automation Systems",
+    "AI Agent Development",
 ]
 
-content = "@dido.hub — AI, Web Development & Automation"
+content     = "@dido.hub — AI, Web Development & Automation"
 
-ask_me = [
-"Next.js",
-"React",
-"Supabase",
-"Firebase",
-"n8n Automation",
-"OpenCode",
+ask_me      = [
+    "Next.js",
+    "React",
+    "Supabase",
+    "Firebase",
+    "n8n Automation",
+    "OpenCode",
 ]
 
-    def contact(self): return "77riezoff@gmail.com"
+def contact(self):
+    return "77riezoff@gmail.com"
 ```
 
 ---
