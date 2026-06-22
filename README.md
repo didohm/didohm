@@ -9,7 +9,7 @@
 <br/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Boumedien+Himich;AI+Full+Stack+Developer;Focus.+Discipline.+Execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Boumedien+Himich;AI+Full+Stack+Developer; Focus.+Discipline.+Execution." alt="Typing SVG" />
 </h1>
 
 <p>
@@ -65,16 +65,29 @@ class BoumedienHimich:
     location    = "Algeria 🇩🇿"
     motto       = "Focus. Discipline. Execution."
 
-    currently   = [
-        "Building production-grade LLM applications",
-        "Designing scalable backend systems with FastAPI & Django",
-        "Exploring RAG pipelines, Vector DBs & Prompt Engineering",
-        "Shipping AI-driven SaaS products from zero to launch",
-    ]
+    currently = [
+"Building modern web applications with Next.js & React",
+"Developing scalable backends with Supabase & Firebase",
+"Creating AI-powered workflows and automations with n8n",
+"Building and customizing AI agents with OpenCode",
+]
 
-    learning    = ["System Design at scale", "MLOps", "Agent frameworks (LangGraph, CrewAI)"]
-    content     = "@dido.hub — Arabic tech content for builders"
-    ask_me      = ["Python backends", "LLM integration", "API architecture", "Cloud infra"]
+learning = [
+"Advanced Next.js architecture",
+"Automation systems with n8n",
+"AI agent development",
+]
+
+content = "@dido.hub — AI, Web Development & Automation"
+
+ask_me = [
+"Next.js",
+"React",
+"Supabase",
+"Firebase",
+"n8n Automation",
+"OpenCode",
+]
 
     def contact(self): return "77riezoff@gmail.com"
 ```
