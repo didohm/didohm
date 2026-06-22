@@ -296,7 +296,6 @@ class BoumedienHimich:
 | Project | Stack | Status |
 |:--------|:------|:------:|
 | 🎥 **VIKO** — Creator resources & workflow platform | Next.js · Firebase · Cloudinary · n8n | 🔵 Building |
-| 📱 **ForGrowth** — AI study tools for Arabic students | React Native · Expo · Convex · OpenRouter | 🔵 Building |
 | 📊 **Analyse Financière** — Crypto analytics dashboard | React · Node.js · MongoDB · Docker | 🟡 Active |
 | 🌐 **Eclipse Website** — Organization landing page | Next.js · Supabase · Tailwind CSS | 🟡 Active |
 | 📱 **@dido.hub** — Arabic tech & dev content | Instagram · Motion Graphics · n8n | 🟢 Active |
